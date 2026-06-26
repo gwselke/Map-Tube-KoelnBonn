@@ -1,0 +1,88 @@
+Revision history for Perl extension Map::Tube::KoelnBonn.
+
+0.92.6 2026-06-26
+  - Fixed Makefile.PL issue preventing data file from being installed.
+  - Improvements to Makefile.PL
+  - Switched to Github as code repository and issue handler.
+
+0.92.5 2026-06-11
+  - Removed code signatures (cpansign is deprecated), replaced with Sigstore/cosign.
+  - Prepared for use with Map::Tube v5.0.1.
+
+0.92.4 2025-04-30
+  - Require Map::Tube 4.09.
+  - Require Perl 5.14 (in accordance with Map::Tube 4.09).
+  - Remove -T from shebangs in tests (in accordance with Map::Tube 4.09).
+  - Facilitate Unicode output in tests in case of failures.
+
+0.92.3 2025-04-17
+  - Make spelling in documentation more consistent.
+  - Fixed a station name.
+  - Require Map::Tube 4.04.
+
+0.92.2 2025-02-17
+  - Require Map::Tube 3.94 and adapt tests accordingly.
+  - Remove support for Perl 5.10 because of test failing for Perl < 5.11.
+  - Reorganised internal IDs for lines and stations.
+  - Changed ids that overlap with RheinRuhr map.
+  - Enhanced tests.
+
+0.92.1 2024-12-09
+  - Added tests
+  - Fixed duplicate station name
+  - Switched tests from deprecated XML::Simple to XML::Twig
+    (also old, but also used by Map::Tube itself)
+
+0.92.0 2024-11-11
+  - Augmented data with per-line station indexes
+  - Added test for preferred route
+  - Fixed test 02-xml.t
+
+0.91.0 2024-11-05
+  - Adapted for use with Map::Tube 3.77
+  - Bumped Perl version to 5.10.0
+  - Use semantic versioning
+  - Added more tests
+  - Added new line, added several new stations, updated station names
+
+0.09 2015-03-24
+  - Amended map entries to make use of Map::Tube 2.92 features
+
+0.08 2015-03-09
+  - fixied MANIFEST.SKIP and tests to cope with ExtUtils::MakeMaker 7.05+
+    (thanks to Slaven's tireless research)
+
+0.07 2015-03-02
+  - added file missing from previous version (More thanks to Slaven and Michal!)
+
+0.06 2015-02-26  - minuscule changes to pod
+  - no end to permissions problems... (Thanks again, Slaven!)
+
+0.05 2015-02-25
+  - expanded tests
+  - expanded Makefile.pl (based on hints by Slaven -- thanks!)
+  - added more pod
+  - fixed permissions problem again (Thanks Slaven!)
+
+0.04 2015-02-24
+  - cleaned up Makefile.pl
+  - cleaned up tests
+  - use Test::Map::Tube
+  - bumped Map::Tube version required to 2.87
+  - removed files needed only for initial construction of xml map file
+
+0.03 2015-02-04
+  - added line colours
+  - modified t/03-xml.t for changed return value from Map::Tube 2.72
+  - bumped minimum Map::Tube version to 2.72
+  - fixed number of plans in t/01-xml.t
+  - explicitly cast output from nodes() method to hash reference in t/02-xml.t
+  - extended testing of correctness of xml file
+  - changed and extended tests
+
+0.02 2015-01-22
+  - fixed character set problem in abstract / META files.
+  - Fixed module name in t\12-meta-yml.t
+
+0.01 2015-01-22
+  - initial release

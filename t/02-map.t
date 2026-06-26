@@ -1,0 +1,23 @@
+#!perl
+use 5.14.0;
+use strict;
+use warnings FATAL => 'all';
+use utf8;
+use open ':std', ':encoding(UTF-8)';
+use Test::More 0.82;
+use Map::Tube::KoelnBonn;
+
+eval 'use Test::Map::Tube tests => 3';
+plan skip_all => 'Test::Map::Tube required for this test' if $@;
+
+my $map = new_ok( 'Map::Tube::KoelnBonn' );
+
+ok_map_functions($map);
+
+my @routes = <DATA>;
+ok_map_routes($map, \@routes);
+
+done_testing;
+__DATA__
+Route 1|Neumarkt|Trimbornstr.|Neumarkt, Heumarkt, Deutzer Freiheit, Bf Deutz / Messe, Köln Messe / Deutz, Trimbornstr.
+Route 2|wurzerstr.|RAMERSDORF|Wurzerstr., Hochkreuz / Deutsches Museum Bonn, Max-Löbner-Str. / Friesdorf, Olof-Palme-Allee, Robert-Schuman-Platz, Rheinaue, Ramersdorf
