@@ -1,0 +1,715 @@
+;Köln-Bonn U- and S-Bahn and Tramways
+#
+:1:#EE1C24
+Bensberg
+Im Hoppenkamp
+Kölner Str.
+Neuenweg
+Frankenforst
+Kippekausen
+Refrath
+Lustheide
+Brück Mauspfad
+Flehbachstr.
+Merheim
+Kalker Friedhof.
+Höhenberg Frankfurter Str.
+Fuldaer Str.
+Kalk Kapelle
+Kalk Post
+Deutz Technische Hochschule
+Bf Deutz / Messe:bfdeutz;Köln Messe / Deutz:bfdeutz;Bf Deutz / LANXESS Arena
+Deutzer Freiheit
+Heumarkt
+Neumarkt
+Rudolfplatz
+Moltkestr.
+Universitätsstr.
+Melaten
+Aachener Str. / Gürtel
+Maarweg
+Clarenbachstift
+Eupener Str.
+Alter Militärring
+Rheinenergiestadion
+Junkersdorf
+Mohnweg
+Bahnstr.
+Weiden Zentrum
+Weiden Römergrab
+Weiden West
+#
+:12:#8DC73F
+Merkenich
+Merkenich Mitte
+Fordwerke Nord
+Fordwerke Mitte
+Fordwerke Süd
+Geestemünder Str.
+Niehl
+Wilhelm-Sollmann-Str.
+Scheibenstr.
+Mollwitzstr.
+Neusser Str. / Gürtel
+Florastr.
+Lohsestr.
+Ebertplatz
+Hansaring
+Christophstr. / Mediapark
+Friesenplatz
+Rudolfplatz
+Zülpicher Platz
+Barbarossaplatz
+Eifelstr.
+Eifelplatz
+Pohligstr.
+Hertastr.
+Gottesweg
+Zollstockgürtel
+Zollstock Südfriedhof
+#
+:13:#A4846F
+Holweide Vischeringstr.
+Wichheimer Str.
+Buchheim Herler Str.
+Bf Mülheim
+Mülheim Wiener Platz
+Slabystr.
+Amsterdamer Str. / Gürtel
+Neusser Str. / Gürtel
+Geldernstr. / Parkgürtel
+Escherstr.
+Nußbaumerstr.
+Subbelrather Str. / Gürtel
+Ehrenfeld / Venloer Str. / Gürtel
+Weinsbergstr. / Gürtel
+Melatengürtel
+Aachener Str. / Gürtel
+Wüllnerstr.
+Dürener Str. / Gürtel
+Gleueler Str. / Gürtel
+Zülpicher Str. / Gürtel
+Euskirchener Str.
+Berrenrather Str. / Gürtel
+Sülzgürtel
+#
+:15:#4FB848
+Chorweiler
+Heimersdorf
+Longericher Str.=Longerich Friedhof
+Meerfeldstr.
+Herforder Str.
+Altonaer Platz
+Wilhelm-Sollmann-Str.
+Scheibenstr.
+Mollwitzstr.
+Neusser Str. / Gürtel
+Florastr.
+Lohsestr.
+Ebertplatz
+Hansaring
+Christophstr. / Mediapark
+Friesenplatz
+Rudolfplatz
+Zülpicher Platz
+Barbarossaplatz
+Eifelstr.
+Ulrepforte
+Köln Chlodwigplatz
+Ubierring
+!Longerich Friedhof=Longericher Str.
+#
+:16:#00B6AD
+Bad Godesberg Stadthalle
+Bad Godesberg Bf
+Plittersdorfer Str.
+Wurzerstr.
+Hochkreuz / Deutsches Museum Bonn
+Max-Löbner-Str. / Friesdorf
+Olof-Palme-Allee
+Ollenhauerstr.
+Heussallee / Museumsmeile
+Museum Koenig
+Bundesrechnungshof / Auswärtiges Amt
+Juridicum
+Universität / Markt
+Bonn Hbf
+Bonn West
+Propsthof Nord
+Tannenbusch Süd
+Tannenbusch Mitte
+Buschdorf
+Hersel
+Uedorf
+Widdig
+Urfeld
+Wesseling Süd
+Wesseling
+Wesseling Nord
+Godorf
+Sürth
+Michaelshoven
+Siegstr.
+Rodenkirchen Bf
+Heinrich-Lübke-Ufer
+Bayenthalgürtel
+Schönhauser Str.
+Ubierring
+Köln Chlodwigplatz
+Ulrepforte
+Eifelstr.
+Barbarossaplatz
+Poststr.
+Neumarkt
+Appellhofplatz / Breite Str.
+Dom / Hbf:hbfkoeln;Köln Hbf
+Breslauer Platz / Hbf:hbfkoeln;Köln Hbf
+Ebertplatz
+Reichenspergerplatz
+Kinderkrankenhaus
+Amsterdamer Str. / Gürtel
+Nesselrodestr.
+Niehl Sebastianstr.
+#
+:17:#A1A1FF
+Severinstr.
+Kartäuserhof
+Köln Chlodwigplatz
+Bonner Wall
+Schönhauser Str.
+Bayenthalgürtel
+Heinrich-Lübke-Ufer
+Rodenkirchen Bf
+Siegstr.
+Michaelshoven
+Sürth
+#
+:18:#00A1E4
+Bonn Hbf
+Bonn West
+Brühler Str.
+Robert-Kirchhoff-Str.
+Dransdorf
+Alfter / Alanushochschule
+Roisdorf West
+Bornheim Rathaus
+Bornheim
+Dersdorf
+Waldorf
+Merten
+Walberberg
+Brühl-Schwadorf
+Brühl-Badorf
+Brühl Süd
+Brühl Mitte
+Brühl Nord
+Brühl-Vochem
+Fischenich
+Hürth-Hermülheim
+Kiebitzweg
+Efferen
+Klettenbergpark
+Sülzgürtel
+Sülzburgstr.
+Arnulfstr.
+Weißhausstr.
+Eifelwall
+Barbarossaplatz
+Poststr.
+Neumarkt
+Appellhofplatz / Breite Str.
+Dom / Hbf:hbfkoeln;Köln Hbf
+Breslauer Platz / Hbf:hbfkoeln;Köln Hbf
+Ebertplatz
+Reichenspergerplatz
+Zoo / Flora
+Boltensternstr.
+Slabystr.
+Mülheim Wiener Platz
+Bf Mülheim
+Buchheim Herler Str.
+Wichheimer Str.
+Holweide Vischeringstr.
+Maria-Himmelfahrt-Str.
+Neufelder Str.
+Dellbrück Mauspfad
+Dellbrück Hauptstr.
+Thielenbruch
+#
+:3:#F49AC2
+Görlinger-Zentrum
+Mengenich Ollenhauerring
+Schaffrathsgasse
+Bocklemünd
+Westfriedhof
+Wolffsohnstr.
+Akazienweg
+Äußere Kanalstr.
+Leyendeckerstr.
+Ehrenfeld / Venloer Str. / Gürtel
+Körnerstr.
+Piusstr.
+Hans-Böckler-Platz / Bf West
+Friesenplatz
+Appellhofplatz / Breite Str.
+Neumarkt
+Poststr.
+Severinstr.
+Suevenstr.
+Bf Deutz / LANXESS Arena:bfdeutz;Bf Deutz / Messe
+Koelnmesse
+Stegerwaldsiedlung
+Buchforst Waldecker Str.
+Buchheim Frankfurter Str.
+Buchheim Herler Str.
+Wichheimer Str.
+Holweide Vischeringstr.
+Maria-Himmelfahrt-Str.
+Neufelder Str.
+Dellbrück Mauspfad
+Dellbrück Hauptstr.
+Thielenbruch
+#
+:4:#F172AC
+Bocklemünd
+Westfriedhof
+Wolffsohnstr.
+Akazienweg
+Äußere Kanalstr.
+Leyendeckerstr.
+Ehrenfeld / Venloer Str. / Gürtel
+Körnerstr.
+Piusstr.
+Hans-Böckler-Platz / Bf West
+Friesenplatz
+Appellhofplatz / Breite Str.
+Neumarkt
+Poststr.
+Severinstr.
+Suevenstr.
+Bf Deutz / LANXESS Arena:bfdeutz;Bf Deutz / Messe
+Koelnmesse
+Stegerwaldsiedlung
+Grünstr.
+Mülheim Wiener Platz
+Keupstr.
+Von-Sparr-Str.
+Mülheim Berliner Str.
+Im Weidenbruch
+Am Emberg
+Leuchterstr.
+Odenthaler Str.
+Schlebusch
+#
+:5:#9B95C9
+Heumarkt
+Rathaus
+Dom / Hbf:hbfkoeln;Köln Hbf
+Appellhofplatz / Zeughaus
+Friesenplatz
+Köln West
+Gutenbergstr.
+Liebigstr.
+Subbelrather Str. / Gürtel
+Nußbaumerstr.
+Lenauplatz
+Iltisstr.
+Margaretastr.
+Rektor-Klein-Str.
+Alter Flughafen Butzweilerhof
+IKEA Am Butzweilerhof
+Sparkasse Am Butzweilerhof
+#
+:61:#8DC73F
+Auerberg Kopenhagener Str.
+Auerberger Mitte
+An der Josefshöhe
+Heinrich-Hertz-Europakolleg
+Innenministerium
+Husarenstr.
+LVR-Klinik
+Bonn Chlodwigplatz
+Rosental
+Wilhelmsplatz
+Stadthaus=Bonn Hbf
+Thomas-Mann-Str.
+Bonn Hbf=Stadthaus
+Poppelsdorfer Allee
+Königstr.
+Weberstr.
+Rittershausstr.
+Haus der Jugend
+Eduard-Otto-Str.
+Pützstr.
+Bergstr.
+Hindenburgplatz
+Dottendorf Quirinusplatz
+#
+:62:#4FB848
+Dottendorf Quirinusplatz
+Hindenburgplatz
+Bergstr.
+Pützstr.
+Eduard-Otto-Str.
+Haus der Jugend
+Rittershausstr.
+Weberstr.
+Königstr.
+Poppelsdorfer Allee
+Bonn Hbf=Stadthaus
+Thomas-Mann-Str.
+Stadthaus=Bonn Hbf
+Bertha-von-Suttner-Platz / Beethovenhaus
+Konrad-Adenauer-Platz
+Beuel Rathaus
+Obere Wilhelmstr.
+Beuel Bf
+Limperich Nord
+Limperich
+Küdinghoven
+Schießbergweg
+Ramersdorf
+Oberkassel Nord
+Oberkassel Mitte
+Oberkassel Süd / Römlinghoven
+#
+:63:#5ACCF6
+Bad Godesberg Stadthalle
+Bad Godesberg Bf
+Plittersdorfer Str.
+Wurzerstr.
+Hochkreuz / Deutsches Museum Bonn
+Max-Löbner-Str. / Friesdorf
+Olof-Palme-Allee
+Ollenhauerstr.
+Heussallee / Museumsmeile
+Museum Koenig
+Bundesrechnungshof / Auswärtiges Amt
+Juridicum
+Universität / Markt
+Bonn Hbf
+Bonn West
+Propsthof Nord
+Tannenbusch Süd
+Tannenbusch Mitte
+#
+:65:#BFD72F
+Auerberg Kopenhagener Str.
+Auerberger Mitte
+An der Josefshöhe
+Heinrich-Hertz-Europakolleg
+Innenministerium
+Husarenstr.
+LVR-Klinik
+Bonn Chlodwigplatz
+Rosental
+Wilhelmsplatz
+Bertha-von-Suttner-Platz / Beethovenhaus
+Konrad-Adenauer-Platz
+Beuel Rathaus
+Obere Wilhelmstr.
+Beuel Bf
+Limperich Nord
+Limperich
+Küdinghoven
+Schießbergweg
+Ramersdorf
+#
+:66:#ED008C
+Honnef
+Am Spitzenbach
+Rhöndorf
+Königswinter Denkmal
+Königswinter Fähre
+Königswinter Clemens-August-Str.
+Longenburg
+Oberdollendorf
+Oberdollendorf Nord
+Oberkassel Süd / Römlinghoven
+Oberkassel Mitte
+Oberkassel Nord
+Ramersdorf
+Rheinaue
+Robert-Schuman-Platz
+Olof-Palme-Allee
+Ollenhauerstr.
+Heussallee / Museumsmeile
+Museum Koenig
+Bundesrechnungshof / Auswärtiges Amt
+Juridicum
+Universität / Markt
+Bonn Hbf
+Stadthaus
+Bertha-von-Suttner-Platz / Beethovenhaus
+Konrad-Adenauer-Platz
+Adelheidisstr.
+Vilich
+Vilich-Müldorf
+Hangelar West
+Hangelar Mitte
+Hangelar Ost
+Sankt Augustin Ort
+Sankt Augustin Kloster
+Sankt Augustin Zentrum / Hochschule Bonn-Rhein-Sieg
+Sankt-Augustin-Mülldorf
+Siegburg / Bonn
+#
+:67:#F49AC2
+Bad Godesberg Stadthalle
+Bad Godesberg Bf
+Plittersdorfer Str.
+Wurzerstr.
+Hochkreuz / Deutsches Museum Bonn
+Max-Löbner-Str. / Friesdorf
+Olof-Palme-Allee
+Ollenhauerstr.
+Heussallee / Museumsmeile
+Museum Koenig
+Bundesrechnungshof / Auswärtiges Amt
+Juridicum
+Universität / Markt
+Bonn Hbf
+Stadthaus
+Bertha-von-Suttner-Platz / Beethovenhaus
+Konrad-Adenauer-Platz
+Adelheidisstr.
+Vilich
+Vilich-Müldorf
+Hangelar West
+Hangelar Mitte
+Hangelar Ost
+Sankt Augustin Ort
+Sankt Augustin Kloster
+Sankt Augustin Zentrum / Hochschule Bonn-Rhein-Sieg
+Sankt-Augustin-Mülldorf
+Siegburg / Bonn
+#
+:68:#C8A0CB
+Bornheim
+Bornheim Rathaus
+Roisdorf West
+Alfter / Alanushochschule
+Dransdorf
+Robert-Kirchhoff-Str.
+Brühler Str.
+Bonn West
+Bonn Hbf
+Universität / Markt
+Juridicum
+Bundesrechnungshof / Auswärtiges Amt
+Museum Koenig
+Heussallee / Museumsmeile
+Ollenhauerstr.
+Olof-Palme-Allee
+Robert-Schuman-Platz
+Rheinaue
+Ramersdorf
+#
+:7:#F68C59
+Frechen-Benzelrath
+Mühlengasse
+Frechen Rathaus
+Frechen Kirche
+Frechen Bahnhof
+Haus Vorst
+Marsdorf
+Stüttgenhof
+Brahmsstr.
+Dürener Str. / Gürtel
+Wüllnerstr.
+Aachener Str. / Gürtel
+Melaten
+Universitätsstr.
+Moltkestr.
+Rudolfplatz
+Neumarkt
+Heumarkt
+Deutzer Freiheit
+Severinsbrücke
+Drehbrücke
+Poller Kirchweg
+Raiffeisenstr.
+Poll Salmstr.
+Baumschulenweg
+Westhoven Kölner Str.
+Westhoven Berliner Str.
+Gilgaustr.
+Ensen Kloster
+Porz Steinstr.
+Porz Markt
+Rosenhügel
+Zündorf
+#
+:9:#F68E84
+Königsforst
+Röttgensweg
+Rath-Heumar
+Porzer Str.
+Steinweg
+Autobahn
+Ostheim
+Vingst
+Kalk Kapelle
+Kalk Post
+Deutz Technische Hochschule
+Bf Deutz / Messe:bfdeutz;Köln Messe / Deutz:bfdeutz;Bf Deutz / LANXESS Arena
+Deutzer Freiheit
+Heumarkt
+Neumarkt
+Mauritiuskirche
+Zülpicher Platz
+Dasselstr. / Bf Süd
+Universität
+Weyertal
+Lindenburg
+Zülpicher Str. / Gürtel
+Mommsenstr.
+Sülz Hermeskeiler Platz
+#
+:S11:#F8941D
+Bergisch Gladbach
+Duckterath
+Dellbrück
+Holweide
+Bf Mülheim
+Buchforst
+Köln Messe / Deutz:bfdeutz;Bf Deutz / Messe
+Köln Hbf:hbfkoeln;Breslauer Platz / Hbf:hbfkoeln;Dom / Hbf
+Hansaring
+Nippes
+Geldernstr. / Parkgürtel
+Longerich
+Volkhovener Weg
+Chorweiler
+Chorweiler Nord
+Blumenberg
+Worringen
+Dormagen Chempark
+Dormagen
+Nievenheim
+#
+:S12:#F8941D
+Au (Sieg)
+Rosbach
+Schladern
+Dattenfeld
+Herchen
+Eitorf
+Merten (Sieg)
+Blankenberg
+Hennef Im Siegbogen
+Hennef
+Siegburg / Bonn
+Troisdorf
+Spich
+Porz-Wahn
+Porz
+Steinstr.
+Airport-Businesspark
+Trimbornstr.
+Köln Messe / Deutz:bfdeutz;Bf Deutz / Messe
+Köln Hbf:hbfkoeln;Breslauer Platz / Hbf:hbfkoeln;Dom / Hbf
+Hansaring
+Ehrenfeld / Venloer Str. / Gürtel
+Müngersdorf / Technologiepark
+Lövenich
+Weiden West
+Frechen-Königsdorf
+Horrem
+#
+:S13:#F8941D
+Düren
+Merzenich
+Buir
+Sindorf
+Horrem
+Frechen-Königsdorf
+Weiden West
+Lövenich
+Müngersdorf / Technologiepark
+Ehrenfeld / Venloer Str. / Gürtel
+Hansaring
+Köln Hbf:hbfkoeln;Breslauer Platz / Hbf:hbfkoeln;Dom / Hbf
+Köln Messe / Deutz:bfdeutz;Bf Deutz / Messe
+Trimbornstr.
+Frankfurter Str.
+Köln / Bonn Flughafen
+Porz-Wahn
+Spich
+Troisdorf
+#
+:S19:#F8941D
+Au (Sieg)
+Rosbach
+Schladern
+Dattenfeld
+Herchen
+Eitorf
+Merten (Sieg)
+Blankenberg
+Hennef Im Siegbogen
+Hennef
+Siegburg / Bonn
+Troisdorf
+Spich
+Porz-Wahn
+Köln / Bonn Flughafen
+Frankfurter Str.
+Trimbornstr.
+Köln Messe / Deutz:bfdeutz;Bf Deutz / Messe
+Köln Hbf:hbfkoeln;Breslauer Platz / Hbf:hbfkoeln;Dom / Hbf
+Hansaring
+Ehrenfeld / Venloer Str. / Gürtel
+Müngersdorf / Technologiepark
+Lövenich
+Weiden West
+Frechen-Königsdorf
+Horrem
+Sindorf
+Buir
+Merzenich
+Düren
+#
+:S23:#F8941D
+Bonn Hbf
+Endenich Nord
+Helmholtzstr.
+Duisdorf
+Impekoven
+Witterschlick
+Kottenforst
+Meckenheim Industriepark
+Meckenheim
+Rheinbach Römerkanal
+Rheinbach
+Odendorf
+Kuchenheim
+Euskirchen
+Euskirchen Zuckerfabrik
+Euskirchen-Stotzheim
+Euskirchen-Kreuzweingarten
+Bad Münstereifel-Arloff
+Bad Münstereifel-Iversheim
+Bad Münstereifel
+#
+:S6:#F8941D
+Berghausen
+Langenfeld
+Leverkusen-Rheindorf
+Leverkusen-Küppersteg
+Leverkusen Mitte
+Leverkusen Chempark
+Stammheim
+Bf Mülheim
+Buchforst
+Köln Messe / Deutz:bfdeutz;Bf Deutz / Messe
+Köln Hbf:hbfkoeln;Breslauer Platz / Hbf:hbfkoeln;Dom / Hbf
+Hansaring
+Nippes
+Geldernstr. / Parkgürtel
+Longerich
+Volkhovener Weg
+Chorweiler
+Chorweiler Nord
+Blumenberg
+Worringen
